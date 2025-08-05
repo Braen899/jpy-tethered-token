@@ -1,4 +1,4 @@
-# JPYT Tethered
+# JPY Tethered
 
 JPY Tethered (JPYT) is a decentralized yen-pegged stablecoin deployed on the TRON blockchain as a TRC-20 token.
 
